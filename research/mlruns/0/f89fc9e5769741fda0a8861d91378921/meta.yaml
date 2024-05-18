@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/research/mlruns/0/f89fc9e5769741fda0a8861d91378921/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f89fc9e5769741fda0a8861d91378921
+run_name: gaudy-gnu-489
+run_uuid: f89fc9e5769741fda0a8861d91378921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715561069833
+status: 1
+tags: []
+user_id: codespace

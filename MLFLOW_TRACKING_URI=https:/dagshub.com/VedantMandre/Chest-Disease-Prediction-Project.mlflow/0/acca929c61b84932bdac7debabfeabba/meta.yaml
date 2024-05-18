@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/codespaces-blank/MLFLOW_TRACKING_URI=https:/dagshub.com/VedantMandre/Chest-Disease-Prediction-Project.mlflow/0/acca929c61b84932bdac7debabfeabba/artifacts
+end_time: 1715732529907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acca929c61b84932bdac7debabfeabba
+run_name: upset-ape-459
+run_uuid: acca929c61b84932bdac7debabfeabba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715732524411
+status: 4
+tags: []
+user_id: codespace

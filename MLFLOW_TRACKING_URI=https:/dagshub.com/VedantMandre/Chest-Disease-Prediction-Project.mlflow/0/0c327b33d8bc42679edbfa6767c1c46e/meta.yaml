@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/codespaces-blank/MLFLOW_TRACKING_URI=https:/dagshub.com/VedantMandre/Chest-Disease-Prediction-Project.mlflow/0/0c327b33d8bc42679edbfa6767c1c46e/artifacts
+end_time: 1715733507392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c327b33d8bc42679edbfa6767c1c46e
+run_name: unequaled-hen-176
+run_uuid: 0c327b33d8bc42679edbfa6767c1c46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715733382019
+status: 4
+tags: []
+user_id: codespace
