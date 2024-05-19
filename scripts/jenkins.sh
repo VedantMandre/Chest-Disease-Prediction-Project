@@ -29,6 +29,10 @@ sudo usermod -aG docker jenkins
 newgrp docker
 
 sudo apt install awscli -y
+(In case the above didnt work, you can follow below 3 commands)
+sudo apt install python3-venv
+python3 -m venv myenv
+pip install awscli
 
 sudo usermod -a -G docker jenkins
 
